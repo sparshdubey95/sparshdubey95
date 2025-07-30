@@ -2,6 +2,5 @@
 - 👀 I’m interested in AI, ML and DL
 - 🌱 I’m currently learning DSA and Web Dev
 - 💞️ I’m looking to collaborate on Research Papers
-- 📫 How to reach me sparshdueby95@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: ChatGPT is my best friend.
