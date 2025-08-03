@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Full-Stack Web Development, Machine Learning*
 
-- 💬 Ask me about *React.JS,*
+- 💬 Ask me about *Python, C++, JavaScript*
 
 - 📫 How to reach me *sparshdubey95@gmail.com*
 
