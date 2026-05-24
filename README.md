@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sparsh Dube</h1>
+<h1 align="center">Hi 👋, I'm Sparsh Dubey</h1>
 <h3 align="center">AIML Undergrad @ MAIT, Delhi | Ex Intern @ Growdigy | Working on LLMs & Transformers | Learning Japanese | Python Programmer | DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshdubey95&label=Profile%20views&color=0e75b6&style=flat" alt="sparshdubey95" /> </p>
